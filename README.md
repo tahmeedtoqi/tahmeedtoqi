@@ -1,3 +1,6 @@
+![logo](https://github.com/tahmeedtoqi/tahmeedtoqi/blob/main/image002.png)
+
+
 <h1 align="center">Hi 👋, I'm Tahmeed Toqi</h1>
 <h3 align="center">A philosopher, reader and a CS Enginear</h3>
 
