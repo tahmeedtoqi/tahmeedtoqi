@@ -75,9 +75,3 @@
 <h3 align="left">Real-time most used languages:</h3>
 <a href="https://github.com/tahmeedtoqi" target="_blank">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmeedtoqi&langs_count=10&title_color=ff0000&text_color=ffffff&icon_color=ffff00&bg_color=000000&border_color=00ff00" alt="Most Used Languages" />
-</a>
-
-<h3 align="left">GitHub Stats:</h3>
-<a href="https://github.com/tahmeedtoqi" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api?username=tahmeedtoqi&show_icons=true&theme=radical" alt="Tahmeed's GitHub Stats" />
-</a>
